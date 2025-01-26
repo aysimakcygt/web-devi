@@ -1,1 +1,1 @@
-# web-devi
+# web ödevi
